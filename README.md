@@ -2,10 +2,9 @@
 
 A full-stack web application for managing student records built with **Spring Boot**, **MySQL**, and **HTML/CSS/JavaScript**.
 
-![Java](https://img.shields.io/badge/Java-17+-orange.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Java](sms_photos/SMS_1.png)
+![Java](sms_photos/SMS_2.png)
+![Java](sms_photos/SMS_3.png)
 
 ## 🚀 Features
 
